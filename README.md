@@ -44,8 +44,7 @@ This project focuses on predicting housing prices using the Yggdrasil Decision F
 The dataset is from the Kaggle competition:  
 **[House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)**
 
-> **Note:** Data files are not included in this repository due to licensing restrictions.  
-> Please download them directly from the Kaggle competition page.
+
 
 ---
 
